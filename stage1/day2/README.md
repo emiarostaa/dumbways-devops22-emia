@@ -28,16 +28,25 @@
     ![image](https://github.com/user-attachments/assets/e6623a15-3471-4344-9f2e-4e9a1bbc1b8d)
 15. membuat file di dalam file mkdir arahkan nama direktori yang diinginkan kemudian ls <br>
     ![image](https://github.com/user-attachments/assets/8531f2ab-7176-4341-a753-48c911e3d2ff)
-16. pwd berfungsi untuk menampilkan direktori kerja saat ini <br
+16. pwd berfungsi untuk menampilkan direktori kerja saat ini <br>
     ![image](https://github.com/user-attachments/assets/63296b16-ddf9-431b-97a0-415730c39829)
+17. jika nama direktori diawali dengan (/) itu berada di root <br>
+    ![image](https://github.com/user-attachments/assets/fc3dd65c-433a-47d3-b8f8-15ba350b4236)
+    ![image](https://github.com/user-attachments/assets/772c6eb7-58f8-4407-b4d2-5b8b6d2e3045)
+18. untuk kembali ke directori sebelumnya dengan cara cd .. yang dimana titik satu menandakan lokasi saat ini dan titik satu lagi memerintahkan untuk keluar dari directory saat ini <br>
+    ![image](https://github.com/user-attachments/assets/83e73abf-36cd-4074-b9cf-a57c2a7f3f9d)
+19. untuk keluar dari dua directori sekaligus : cd ../.. <br>
+    ![image](https://github.com/user-attachments/assets/00b8e573-cf0a-49f6-80ed-bbb2b0b038f2)
+20. warna putih adalah file warna biru adalah directory, jika ingin masuk ke file menggunakan : vim atau nano j<br> ika ingin masuk ke directory cd <br>
+    ![image](https://github.com/user-attachments/assets/40f7d79f-ebf2-4291-b2b9-855040460cab)
 
-17. ![image](https://github.com/user-attachments/assets/9e940cc0-4d8f-4d5c-abac-eb9b93f773ec) berfungsi untuk menampilkan direktori saat ini <br>
+21. ![image](https://github.com/user-attachments/assets/9e940cc0-4d8f-4d5c-abac-eb9b93f773ec) berfungsi untuk menampilkan direktori saat ini <br>
     ![image](https://github.com/user-attachments/assets/0be9a733-421d-49f2-b58e-5352870616d6)
-18. ![image](https://github.com/user-attachments/assets/a0614131-ac3a-4691-8b14-6de80fc35bb8) berfungsi untuk membuat direktori baru <br>
+23. ![image](https://github.com/user-attachments/assets/a0614131-ac3a-4691-8b14-6de80fc35bb8) berfungsi untuk membuat direktori baru <br>
    ![image](https://github.com/user-attachments/assets/f7ce5f06-6098-485c-bccd-beca636e5e58)
-19. ![image](https://github.com/user-attachments/assets/e217f9ff-d886-4f31-b943-6a205d384400) berfungsi untuk menghapus direktory <br>
+24. ![iage](https://github.com/user-attachments/assets/e217f9ff-d886-4f31-b943-6a205d384400) berfungsi untuk menghapus direktory <br>
    ![image](https://github.com/user-attachments/assets/255c1fbf-a8ed-483e-962c-e8f25afd1e84)
-20. 
+25. 
  ![image](https://github.com/user-attachments/assets/145bf629-48c7-4540-a259-8b0fec6be3ee) berfungsi untuk menampilkan daftar file dan directori <br> 
    ![image](https://github.com/user-attachments/assets/09a238f8-4042-466c-a2cc-3de5fef4d096)
 
