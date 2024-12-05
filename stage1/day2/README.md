@@ -41,16 +41,30 @@
     ![image](https://github.com/user-attachments/assets/40f7d79f-ebf2-4291-b2b9-855040460cab)
 21. touch berfungsi untuk menambahkan file <br?
     ![image](https://github.com/user-attachments/assets/71bb95df-e722-4753-a5eb-ecfb4ab862ba)
-22. touch berfungsi jika ingin memasukkan file ke dalam directory dapat digunakan secara bersamaan misal ingin memasukkan file lol kedalam direktori testing01 : touch testingo1/lol
+22. touch berfungsi jika ingin memasukkan satu file hingga banyak file ke dalam directory dapat digunakan secara bersamaan misal ingin memasukkan file lol kedalam direktori testing01 : touch testingo1/lol <br>
     ![image](https://github.com/user-attachments/assets/991d7e1d-2f8d-49c9-9cf2-1a25f99b3b97)
+23. rm berfungsi untuk menghapus satu file hingga banyak file <br>
+    ![image](https://github.com/user-attachments/assets/abfa4161-3f59-495f-b212-c5df7f2e3f4a)
+24. rm -rf r directori f force berfungsi untuk menghapus directori yang memiliki isi <br>
+    ![image](https://github.com/user-attachments/assets/64fb0b21-f140-40ed-a6ce-723cb8e7646f)
+25. nano berfungsi untuk menambahkan teks ke sebuah file
+    ![image](https://github.com/user-attachments/assets/42b29c1d-d59b-4711-82d5-8a36a4355bff)
+    ![image](https://github.com/user-attachments/assets/0e9f64e0-f045-4006-9a55-8666b9849e4f)
+26. cat berfungsi untuk menampilkan teks yang ada dalam file
+    ![image](https://github.com/user-attachments/assets/cb3b2109-23f2-4f71-bed9-91174261e072)
+27. cp berfungsi untuk mengcopy isi dari suatu file ke file lainnya, kalau dari file ke direktori dapat di copy langsung apabila dari directori ke directori maka harus menambahkan -r
+    ![image](https://github.com/user-attachments/assets/7063f282-0796-4bc8-adc0-a2a4ea31d424)
+    ![image](https://github.com/user-attachments/assets/cd4048f7-5a00-45cb-8463-b3e110b3cee7)
+    ![image](https://github.com/user-attachments/assets/19b9fa4f-f43e-4507-850b-342937753c14)
 
-24. [image](https://github.com/user-attachments/assets/9e940cc0-4d8f-4d5c-abac-eb9b93f773ec) berfungsi untuk menampilkan direktori saat ini <br>
+29. 
+30. [image](https://github.com/user-attachments/assets/9e940cc0-4d8f-4d5c-abac-eb9b93f773ec) berfungsi untuk menampilkan direktori saat ini <br>
     ![image](https://github.com/user-attachments/assets/0be9a733-421d-49f2-b58e-5352870616d6)
-25. ![image](https://github.com/user-attachments/assets/a0614131-ac3a-4691-8b14-6de80fc35bb8) berfungsi untuk membuat direktori baru <br>
+31. ![image](https://github.com/user-attachments/assets/a0614131-ac3a-4691-8b14-6de80fc35bb8) berfungsi untuk membuat direktori baru <br>
    ![image](https://github.com/user-attachments/assets/f7ce5f06-6098-485c-bccd-beca636e5e58)
-26. ![iage](https://github.com/user-attachments/assets/e217f9ff-d886-4f31-b943-6a205d384400) berfungsi untuk menghapus direktory <br>
+32. ![iage](https://github.com/user-attachments/assets/e217f9ff-d886-4f31-b943-6a205d384400) berfungsi untuk menghapus direktory <br>
    ![image](https://github.com/user-attachments/assets/255c1fbf-a8ed-483e-962c-e8f25afd1e84)
-27. 
+33. 
  ![image](https://github.com/user-attachments/assets/145bf629-48c7-4540-a259-8b0fec6be3ee) berfungsi untuk menampilkan daftar file dan directori <br> 
    ![image](https://github.com/user-attachments/assets/09a238f8-4042-466c-a2cc-3de5fef4d096)
 
