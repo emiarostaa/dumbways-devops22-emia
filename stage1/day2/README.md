@@ -37,16 +37,20 @@
     ![image](https://github.com/user-attachments/assets/83e73abf-36cd-4074-b9cf-a57c2a7f3f9d)
 19. untuk keluar dari dua directori sekaligus : cd ../.. <br>
     ![image](https://github.com/user-attachments/assets/00b8e573-cf0a-49f6-80ed-bbb2b0b038f2)
-20. warna putih adalah file warna biru adalah directory, jika ingin masuk ke file menggunakan : vim atau nano j<br> ika ingin masuk ke directory cd <br>
+20. warna putih adalah file warna biru adalah directory, jika ingin mengakses file menggunakan : vim atau nano <br> jika ingin mengakses directory cd <br>
     ![image](https://github.com/user-attachments/assets/40f7d79f-ebf2-4291-b2b9-855040460cab)
+21. touch berfungsi untuk menambahkan file <br?
+    ![image](https://github.com/user-attachments/assets/71bb95df-e722-4753-a5eb-ecfb4ab862ba)
+22. touch berfungsi jika ingin memasukkan file ke dalam directory dapat digunakan secara bersamaan misal ingin memasukkan file lol kedalam direktori testing01 : touch testingo1/lol
+    ![image](https://github.com/user-attachments/assets/991d7e1d-2f8d-49c9-9cf2-1a25f99b3b97)
 
-21. ![image](https://github.com/user-attachments/assets/9e940cc0-4d8f-4d5c-abac-eb9b93f773ec) berfungsi untuk menampilkan direktori saat ini <br>
+24. [image](https://github.com/user-attachments/assets/9e940cc0-4d8f-4d5c-abac-eb9b93f773ec) berfungsi untuk menampilkan direktori saat ini <br>
     ![image](https://github.com/user-attachments/assets/0be9a733-421d-49f2-b58e-5352870616d6)
-23. ![image](https://github.com/user-attachments/assets/a0614131-ac3a-4691-8b14-6de80fc35bb8) berfungsi untuk membuat direktori baru <br>
+25. ![image](https://github.com/user-attachments/assets/a0614131-ac3a-4691-8b14-6de80fc35bb8) berfungsi untuk membuat direktori baru <br>
    ![image](https://github.com/user-attachments/assets/f7ce5f06-6098-485c-bccd-beca636e5e58)
-24. ![iage](https://github.com/user-attachments/assets/e217f9ff-d886-4f31-b943-6a205d384400) berfungsi untuk menghapus direktory <br>
+26. ![iage](https://github.com/user-attachments/assets/e217f9ff-d886-4f31-b943-6a205d384400) berfungsi untuk menghapus direktory <br>
    ![image](https://github.com/user-attachments/assets/255c1fbf-a8ed-483e-962c-e8f25afd1e84)
-25. 
+27. 
  ![image](https://github.com/user-attachments/assets/145bf629-48c7-4540-a259-8b0fec6be3ee) berfungsi untuk menampilkan daftar file dan directori <br> 
    ![image](https://github.com/user-attachments/assets/09a238f8-4042-466c-a2cc-3de5fef4d096)
 
