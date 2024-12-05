@@ -1,2 +1,1 @@
-## Hari ke dua
-
+## LINUX SHEL
