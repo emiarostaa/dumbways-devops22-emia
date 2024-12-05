@@ -53,18 +53,25 @@
 26. cat berfungsi untuk menampilkan teks yang ada dalam file
     ![image](https://github.com/user-attachments/assets/cb3b2109-23f2-4f71-bed9-91174261e072)
 27. cp berfungsi untuk mengcopy isi dari suatu file ke file lainnya, kalau dari file ke direktori dapat di copy langsung apabila dari directori ke directori maka harus menambahkan -r
-    ![image](https://github.com/user-attachments/assets/7063f282-0796-4bc8-adc0-a2a4ea31d424)
-    ![image](https://github.com/user-attachments/assets/cd4048f7-5a00-45cb-8463-b3e110b3cee7)
-    ![image](https://github.com/user-attachments/assets/19b9fa4f-f43e-4507-850b-342937753c14)
+    ![image](https://github.com/user-attachments/assets/7063f282-0796-4bc8-adc0-a2a4ea31d424) <br>
+    ![image](https://github.com/user-attachments/assets/cd4048f7-5a00-45cb-8463-b3e110b3cee7) <br>
+    ![image](https://github.com/user-attachments/assets/aa64a562-668b-4c8a-a22b-8f0db3f1995c)
+28. mv berfungsi untuk Memindahkan atau mengganti nama file/folder, apabila ingin memindahkan direktori ke file atau file ke directory harus satu directory atau dapat mundur dengan ../nama directory yang dituju <br>
+    ![image](https://github.com/user-attachments/assets/2d575625-c4c5-4412-8fa1-59afb607255d) <br>
+    ![image](https://github.com/user-attachments/assets/3bb53637-9a5c-4e36-a8c4-2bc1b19c165f) <br>
+    me rename file satu directory <br>
+    ![image](https://github.com/user-attachments/assets/4fe6828d-ea8e-41f9-a0c8-e80ac2d0617b) <br>
+    mengubah nama direktori ![image](https://github.com/user-attachments/assets/cbb034a4-21c6-4f2c-a280-fc64b04b63d1)
+    merename sekaligus mengubah nama pada direktori 1 ke direktori 2 ![image](https://github.com/user-attachments/assets/655cfa3b-11c4-4ca5-b83e-990b689024bd)
 
-29. 
-30. [image](https://github.com/user-attachments/assets/9e940cc0-4d8f-4d5c-abac-eb9b93f773ec) berfungsi untuk menampilkan direktori saat ini <br>
+    
+32. [image](https://github.com/user-attachments/assets/9e940cc0-4d8f-4d5c-abac-eb9b93f773ec) berfungsi untuk menampilkan direktori saat ini <br>
     ![image](https://github.com/user-attachments/assets/0be9a733-421d-49f2-b58e-5352870616d6)
-31. ![image](https://github.com/user-attachments/assets/a0614131-ac3a-4691-8b14-6de80fc35bb8) berfungsi untuk membuat direktori baru <br>
+33. ![image](https://github.com/user-attachments/assets/a0614131-ac3a-4691-8b14-6de80fc35bb8) berfungsi untuk membuat direktori baru <br>
    ![image](https://github.com/user-attachments/assets/f7ce5f06-6098-485c-bccd-beca636e5e58)
-32. ![iage](https://github.com/user-attachments/assets/e217f9ff-d886-4f31-b943-6a205d384400) berfungsi untuk menghapus direktory <br>
+34. ![iage](https://github.com/user-attachments/assets/e217f9ff-d886-4f31-b943-6a205d384400) berfungsi untuk menghapus direktory <br>
    ![image](https://github.com/user-attachments/assets/255c1fbf-a8ed-483e-962c-e8f25afd1e84)
-33. 
+35. 
  ![image](https://github.com/user-attachments/assets/145bf629-48c7-4540-a259-8b0fec6be3ee) berfungsi untuk menampilkan daftar file dan directori <br> 
    ![image](https://github.com/user-attachments/assets/09a238f8-4042-466c-a2cc-3de5fef4d096)
 
