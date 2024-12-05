@@ -61,8 +61,8 @@
     ![image](https://github.com/user-attachments/assets/3bb53637-9a5c-4e36-a8c4-2bc1b19c165f) <br>
     me rename file satu directory <br>
     ![image](https://github.com/user-attachments/assets/4fe6828d-ea8e-41f9-a0c8-e80ac2d0617b) <br>
-    mengubah nama direktori ![image](https://github.com/user-attachments/assets/cbb034a4-21c6-4f2c-a280-fc64b04b63d1) <br>
-    merename sekaligus mengubah nama pada direktori 1 ke direktori 2 ![image](https://github.com/user-attachments/assets/655cfa3b-11c4-4ca5-b83e-990b689024bd)
+    mengubah nama direktori <br> ![image](https://github.com/user-attachments/assets/cbb034a4-21c6-4f2c-a280-fc64b04b63d1) <br>
+    merename sekaligus mengubah nama pada direktori 1 ke direktori 2 <br> ![image](https://github.com/user-attachments/assets/655cfa3b-11c4-4ca5-b83e-990b689024bd)
 
    
 
