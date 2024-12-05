@@ -4,7 +4,7 @@
 1. ![image](https://github.com/user-attachments/assets/7d73f8d1-5f07-4de0-97f3-0ee128f436f9) berfungsi untuk memperbarui daftar paket <br>
    ![image](https://github.com/user-attachments/assets/e47accb6-ab63-4496-8d91-a6b718f5f092)
 2. ![image](https://github.com/user-attachments/assets/333c1756-0579-415d-99ae-28fdbea63f2c) berfungsi untuk memperbarui paket ke versi terbaru <br>
-   ![image](https://github.com/user-attachments/assets/bf94c8b4-161a-461f-98aa-342845368710)
+   ![image](https://github.com/user-attachments/assets/bf94c8b4-161a-461f-98aa-342845368710) 
 3. sudo snap install multipass berfungsi untuk menginstal multipass menggunanakan snap 
 4. multipass launch berfungsi untuk membuat instansi VM baru <br>
    ![image](https://github.com/user-attachments/assets/d83ee977-6110-416f-9d6c-dd1215249b7f)
