@@ -1,2 +1,2 @@
-#Hari ke dua
+## Hari ke dua
 
