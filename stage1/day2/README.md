@@ -14,7 +14,7 @@
    ![image](https://github.com/user-attachments/assets/a339e61b-b51a-4073-8c5d-072a21cca887)
 11. sudo adalah super user utama di linux server
 12. sudo apt update berfungsi memperbarui daftar paket <br>
-    ![image](https://github.com/user-attachments/assets/740e8179-0ed5-4966-8d34-d877ec5fb086)  
+    ![image](https://github.com/user-attachments/assets/740e8179-0ed5-4966-8d34-d877ec5fb086)   
 14. sudo apt update berfungsi untuk memperbarui paket ke versi terbaru <br>
     ![image](https://github.com/user-attachments/assets/c7a9ef12-084c-4379-9d29-8760488d7484)
 16. ![image](https://github.com/user-attachments/assets/c8cc9551-573c-4c44-8571-fa3f22ae6126) berfungsi untuk mengubah direktori kerja <br>
