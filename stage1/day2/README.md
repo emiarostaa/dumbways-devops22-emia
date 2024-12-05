@@ -52,7 +52,7 @@
     ![image](https://github.com/user-attachments/assets/0e9f64e0-f045-4006-9a55-8666b9849e4f)
 26. cat berfungsi untuk menampilkan teks yang ada dalam file
     ![image](https://github.com/user-attachments/assets/cb3b2109-23f2-4f71-bed9-91174261e072)
-27. cp berfungsi untuk mengcopy isi dari suatu file ke file lainnya, kalau dari file ke direktori dapat di copy langsung apabila dari directori ke directori maka harus menambahkan -r
+27. cp berfungsi untuk mengcopy isi dari suatu file ke file lainnya, kalau dari file ke direktori dapat di copy langsung apabila dari directori ke directori maka harus menambahkan -r <br>
     ![image](https://github.com/user-attachments/assets/7063f282-0796-4bc8-adc0-a2a4ea31d424) <br>
     ![image](https://github.com/user-attachments/assets/cd4048f7-5a00-45cb-8463-b3e110b3cee7) <br>
     ![image](https://github.com/user-attachments/assets/aa64a562-668b-4c8a-a22b-8f0db3f1995c)
