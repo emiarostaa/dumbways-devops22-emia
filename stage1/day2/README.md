@@ -50,7 +50,7 @@
 25. nano berfungsi untuk menambahkan teks ke sebuah file
     ![image](https://github.com/user-attachments/assets/42b29c1d-d59b-4711-82d5-8a36a4355bff)
     ![image](https://github.com/user-attachments/assets/0e9f64e0-f045-4006-9a55-8666b9849e4f)
-26. cat berfungsi untuk menampilkan teks yang ada dalam file
+26. cat berfungsi untuk menampilkan teks yang ada dalam file <br>
     ![image](https://github.com/user-attachments/assets/cb3b2109-23f2-4f71-bed9-91174261e072)
 27. cp berfungsi untuk mengcopy isi dari suatu file ke file lainnya, kalau dari file ke direktori dapat di copy langsung apabila dari directori ke directori maka harus menambahkan -r <br>
     ![image](https://github.com/user-attachments/assets/7063f282-0796-4bc8-adc0-a2a4ea31d424) <br>
@@ -64,7 +64,7 @@
     mengubah nama direktori <br> ![image](https://github.com/user-attachments/assets/cbb034a4-21c6-4f2c-a280-fc64b04b63d1) <br>
     merename sekaligus mengubah nama pada direktori 1 ke direktori 2 <br> ![image](https://github.com/user-attachments/assets/655cfa3b-11c4-4ca5-b83e-990b689024bd)
 
-   
+29. e
 
 
 
