@@ -63,11 +63,35 @@
 27. echo berfungsi untuk menampilkan teks atau output <br>
     ![image](https://github.com/user-attachments/assets/93470678-eb27-46b7-893e-8a9109714fd3)
 28. > berfungsi untuk menyalin teks kedalam file baru <br>
-   ![image](https://github.com/user-attachments/assets/4ee83106-e744-4b13-be1c-49082199ec13)
+    ![image](https://github.com/user-attachments/assets/4ee83106-e744-4b13-be1c-49082199ec13)
 29. >> berfungsi untuk menambahkan teks ke suatu file <br>
-   ![image](https://github.com/user-attachments/assets/b7daf304-d373-40f0-844e-09116fdb35b2)
-30. find berfungsi untuk mencari file atau direktori berdasarkan kriteria tertentu di dalam sistem file <br>
-![image](https://github.com/user-attachments/assets/91b2bbea-b54f-4eb1-b312-46ef66a46fe3)
+    ![image](https://github.com/user-attachments/assets/b7daf304-d373-40f0-844e-09116fdb35b2)
+30. find berfungsi untuk mencari file atau direktori berdasarkan kriteria tertentu di dalam sistem file dengan script : find -type f -name ... -> nama file yang ingin dicari jika directori huruf f berubah menjadi huruf d <br>
+    ![image](https://github.com/user-attachments/assets/a9f9d305-c40f-407d-b3e8-1addd93a386f)
+31. grep berfungsi untuk encari teks atau pola tertentu dalam file atau output dari perintah lain <br>
+    ![image](https://github.com/user-attachments/assets/e8ce4ada-adac-4e4d-8845-e3629ed20221) <br>
+    ![image](https://github.com/user-attachments/assets/ceb1de72-f199-4034-b352-71278df254c9)
+32. history berfungsi untuk melihat perintah yang telah dijalankan <br>
+    ![image](https://github.com/user-attachments/assets/4a8b53e0-c9d0-4764-8d7d-1dfeb46fe91b) <br>
+33. history | grep untuk mencari perintah tertentu dalam riwayat perintah shell Anda dengan spesifik <br>
+    ![image](https://github.com/user-attachments/assets/c6be6d3a-9e52-4648-94d6-9d33721b5d4e)
+34. chmod berfungsi untuk mengubah hak akses (permissions) file atau direktori <br>
+    d : directory <br>
+    r : read 4 <br>
+    w : write 2 <br>
+    x : execuse 1 <br>
+    -r untuk menghilangkan akses read  <br> ![image](https://github.com/user-attachments/assets/62b4fdcb-81bb-4597-9c28-377e9708370e) <br>
+    +r untuk mengembalikan akses read <br>  ![image](https://github.com/user-attachments/assets/cd100f44-da36-4a19-9f17-f8cae81ce75b)
+    -w untuk menghilangkan akses write <br> ![image](https://github.com/user-attachments/assets/677613cc-784a-48b7-8a73-3c896507f363) <br>
+       ![image](https://github.com/user-attachments/assets/39cc4a3f-93c0-46d6-b641-f741342bcbcf) <br>
+    +w untuk mengembalikan akses write <br>  ![image](https://github.com/user-attachments/assets/4204d162-b5d4-4ab8-8b81-ab0463154d9e)
+ <br> ![image](https://github.com/user-attachments/assets/ecb70cdf-6a52-42c5-8331-e7036edc5ae1) <br>
+
+    
+
+
+
+36. 
 
 
 
