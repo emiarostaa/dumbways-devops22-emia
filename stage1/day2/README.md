@@ -85,8 +85,25 @@
     -w untuk menghilangkan akses write <br> ![image](https://github.com/user-attachments/assets/677613cc-784a-48b7-8a73-3c896507f363) <br>
        ![image](https://github.com/user-attachments/assets/39cc4a3f-93c0-46d6-b641-f741342bcbcf) <br>
     +w untuk mengembalikan akses write <br>  ![image](https://github.com/user-attachments/assets/4204d162-b5d4-4ab8-8b81-ab0463154d9e)
- <br> ![image](https://github.com/user-attachments/assets/ecb70cdf-6a52-42c5-8331-e7036edc5ae1) <br>
+       <br> ![image](https://github.com/user-attachments/assets/ecb70cdf-6a52-42c5-8331-e7036edc5ae1) <br>
+      +x berfungsi untuk menambahkan execuse pada directori tanda direktori yang dapat di eksekusi adalah file warna hijau memiliki execuse <br> ![image](https://github.com/user-attachments/assets/28415468-9e37-4b8f-87e8-24ca404b3bd1) <br>
+      -x berfungsi untuk menghilangkan execuse directori <br> ![image](https://github.com/user-attachments/assets/760f3676-2804-46c1-8efc-8dea4e955bd1) <br>
+35. chmod dengan angka <br>
+![image](https://github.com/user-attachments/assets/53dbfa34-7eeb-46a1-9a1d-973f48448682) <br>
+36. rwxrwxrwx sepasang rwx memiliki permission fungsi <br>
+rwx 1 sebagai user <br>
+rwx 2 sebagai group <br>
+rwx 3 sebagai others <br>
+jika ingin memberikan complete permission dengan angka dapat menjumlahkan angka write, read, execuse = 7 <br>
+![image](https://github.com/user-attachments/assets/d9efbb67-1a92-4341-888a-4f7366407984) <br>
+37. chow berfungsi mengubah kepemilikan directory <br> ![image](https://github.com/user-attachments/assets/6379f3d0-8a1b-4df2-9ef8-d5a46ef78611) <br> 
 
+
+
+
+
+
+      
     
 
 
