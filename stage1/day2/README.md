@@ -94,9 +94,9 @@
 rwx 1 sebagai user <br>
 rwx 2 sebagai group <br>
 rwx 3 sebagai others <br>
-jika ingin memberikan complete permission dengan angka dapat menjumlahkan angka write, read, execuse = 7 <br>
+jika ingin memberikan complete permission dengan angka dapat menjumlahkan angka write, read, execuse = 7, jika 7 nya ada tiga berarti permission user, group dan others ini diaktifkan<br>
 ![image](https://github.com/user-attachments/assets/d9efbb67-1a92-4341-888a-4f7366407984) <br>
-37. chow berfungsi mengubah kepemilikan directory <br> ![image](https://github.com/user-attachments/assets/6379f3d0-8a1b-4df2-9ef8-d5a46ef78611) <br> 
+38. chow berfungsi mengubah kepemilikan directory <br> ![image](https://github.com/user-attachments/assets/6379f3d0-8a1b-4df2-9ef8-d5a46ef78611) <br> 
 
 
 
