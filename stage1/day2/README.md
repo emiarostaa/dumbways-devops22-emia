@@ -89,14 +89,34 @@
       +x berfungsi untuk menambahkan execuse pada directori tanda direktori yang dapat di eksekusi adalah file warna hijau memiliki execuse <br> ![image](https://github.com/user-attachments/assets/28415468-9e37-4b8f-87e8-24ca404b3bd1) <br>
       -x berfungsi untuk menghilangkan execuse directori <br> ![image](https://github.com/user-attachments/assets/760f3676-2804-46c1-8efc-8dea4e955bd1) <br>
 35. chmod dengan angka <br>
-![image](https://github.com/user-attachments/assets/53dbfa34-7eeb-46a1-9a1d-973f48448682) <br>
+   ![image](https://github.com/user-attachments/assets/53dbfa34-7eeb-46a1-9a1d-973f48448682) <br>
 36. rwxrwxrwx sepasang rwx memiliki permission fungsi <br>
-rwx 1 sebagai user <br>
-rwx 2 sebagai group <br>
-rwx 3 sebagai others <br>
-jika ingin memberikan complete permission dengan angka dapat menjumlahkan angka write, read, execuse = 7, jika 7 nya ada tiga berarti permission user, group dan others ini diaktifkan<br>
-![image](https://github.com/user-attachments/assets/d9efbb67-1a92-4341-888a-4f7366407984) <br>
-38. chow berfungsi mengubah kepemilikan directory <br> ![image](https://github.com/user-attachments/assets/6379f3d0-8a1b-4df2-9ef8-d5a46ef78611) <br> 
+   rwx 1 sebagai user <br>
+   rwx 2 sebagai group <br>
+   rwx 3 sebagai others <br>
+   jika ingin memberikan complete permission dengan angka dapat menjumlahkan angka write, read, execuse = 7, jika 7 nya ada tiga berarti permission user, group dan others ini diaktifkan<br>
+   ![image](https://github.com/user-attachments/assets/d9efbb67-1a92-4341-888a-4f7366407984) <br>
+38. chow berfungsi mengubah kepemilikan directory <br> ![image](https://github.com/user-attachments/assets/6379f3d0-8a1b-4df2-9ef8-d5a46ef78611) <br>
+    ![image](https://github.com/user-attachments/assets/8460ba65-d36f-4a73-b54d-db1403b35503) <br>
+    ![image](https://github.com/user-attachments/assets/42663617-a59d-48cf-95c9-312090fad614) <br>
+    mengubah akses root menjadi ubuntu <br>
+    ![image](https://github.com/user-attachments/assets/0a0ed340-184b-4baa-bbd6-646e1c78b990) <br>
+39. addgroups berfungsi untuk membuat grup baru pada sistem <br>
+    ![image](https://github.com/user-attachments/assets/2c44150e-7fd3-427e-806e-7f2f47b669ef) <br>
+40. ping berfungsi untuk menguji koneksi jaringan antara perangkat Anda dan perangkat lain di jaringan atau internet <br>
+   ![image](https://github.com/user-attachments/assets/708a8938-15f5-40c5-8ff4-2e0d1ca312a1) <br>
+41. wget berfungsi untuk mendownload file ke sistem operasi <br>
+   ![image](https://github.com/user-attachments/assets/7a859b7f-93ab-4595-86a2-21575d61ffdf) <br>
+42. mengubah zip ke dalam directory <br>
+![image](https://github.com/user-attachments/assets/34eb4b9a-9d1d-41e9-8909-e0553322771d) <br>
+
+
+
+
+
+
+    
+
 
 
 
