@@ -108,27 +108,19 @@
 41. wget berfungsi untuk mendownload file ke sistem operasi <br>
    ![image](https://github.com/user-attachments/assets/7a859b7f-93ab-4595-86a2-21575d61ffdf) <br>
 42. mengubah zip ke dalam directory <br>
-![image](https://github.com/user-attachments/assets/34eb4b9a-9d1d-41e9-8909-e0553322771d) <br>
+   ![image](https://github.com/user-attachments/assets/34eb4b9a-9d1d-41e9-8909-e0553322771d) <br>
+43. adduser berfungsi untuk  membuat akun pengguna baru di sistem Linux <br>
+    ![image](https://github.com/user-attachments/assets/b063c5e9-28e5-4eb3-9b2d-12b1d981ed5b) <br>
+    ![image](https://github.com/user-attachments/assets/c8388348-77e7-446f-aa90-ef19fb912000) <br>
+44. sudo usermod -aG user ... berfungsi untuk menambahkan seorang pengguna ke group tambahan tanpa menghapus keanggotaan grup lain yang dimiliki pengguna tersebut <br>
+    ![image](https://github.com/user-attachments/assets/313ea349-1d2d-48fc-ba1a-d96c3801b8ec) <br>
+45. sudo su ...(nama user yang diberikan akses) berfungsi untuk memberikan akses root kepada user
+    ![image](https://github.com/user-attachments/assets/1f3b95ff-eaa4-4ce3-b861-e6a44cde109a) <br>
+46.  
 
 
 
 
-
-
-    
-
-
-
-
-
-
-
-      
-    
-
-
-
-36. 
 
 
 
