@@ -119,9 +119,57 @@
 46.  ssh berfungsi untuk mengakses dan mengelola perangkat lain secara aman, seperti server, komputer jarak jauh, atau perangkat jaringan <br>
      ![image](https://github.com/user-attachments/assets/8b5f5770-e895-416c-b56f-552304b778a0) <br>
 
-    ##Jaringan Komputer
+    ## Jaringan Komputer
     
+Jaringan komputer adalah kumpulan perangkat keras dan perangkat lunak yang saling terhubung untuk berbagi data, sumber daya, dan layanan. Jaringan ini memungkinkan perangkat seperti komputer, server, printer, dan perangkat IoT berkomunikasi satu sama lain.
+Komponen Utama Jaringan Komputer
 
+    Perangkat Jaringan:
+        Router: Menghubungkan jaringan yang berbeda dan mengarahkan lalu lintas data.
+        Switch: Menghubungkan perangkat dalam jaringan lokal (LAN).
+        Access Point: Menghubungkan perangkat secara nirkabel (Wi-Fi).
+    Media Transmisi:
+        Kabel (UTP, fiber optic): Untuk koneksi kabel.
+        Gelombang radio: Untuk koneksi nirkabel.
+    Protokol Jaringan:
+        Aturan untuk komunikasi, seperti TCP/IP, HTTP, FTP, dan lainnya.
+
+Jenis Jaringan Komputer
+
+    LAN (Local Area Network):
+        Jaringan lokal dalam area kecil seperti kantor atau rumah.
+    MAN (Metropolitan Area Network):
+        Jaringan yang mencakup area kota.
+    WAN (Wide Area Network):
+        Jaringan yang mencakup wilayah luas, seperti internet.
+    PAN (Personal Area Network):
+        Jaringan kecil untuk perangkat pribadi (contoh: Bluetooth).
+    VPN (Virtual Private Network):
+        Jaringan virtual yang aman melalui internet.
+
+Manfaat Jaringan Komputer
+
+    Berbagi Sumber Daya:
+        Seperti printer, file, atau aplikasi.
+    Komunikasi Cepat:
+        Email, pesan instan, dan konferensi video.
+    Penyimpanan Terpusat:
+        Data disimpan di server yang dapat diakses oleh pengguna jaringan.
+    Efisiensi dan Produktivitas:
+        Kolaborasi yang lebih baik antara pengguna.
+
+Topologi Jaringan
+
+    Topologi Bintang (Star):
+        Semua perangkat terhubung ke satu pusat (hub/switch).
+    Topologi Cincin (Ring):
+        Perangkat saling terhubung membentuk lingkaran.
+    Topologi Bus:
+        Semua perangkat terhubung ke satu kabel utama.
+    Topologi Mesh:
+        Setiap perangkat terhubung ke perangkat lainnya.
+
+Jaringan komputer merupakan tulang punggung komunikasi modern yang memungkinkan akses data secara global dan mendukung perkembangan teknologi digital.
 
 
 
