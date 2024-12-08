@@ -116,7 +116,11 @@
     ![image](https://github.com/user-attachments/assets/313ea349-1d2d-48fc-ba1a-d96c3801b8ec) <br>
 45. sudo su ...(nama user yang diberikan akses) berfungsi untuk memberikan akses root kepada user
     ![image](https://github.com/user-attachments/assets/1f3b95ff-eaa4-4ce3-b861-e6a44cde109a) <br>
-46.  
+46.  ssh berfungsi untuk mengakses dan mengelola perangkat lain secara aman, seperti server, komputer jarak jauh, atau perangkat jaringan <br>
+     ![image](https://github.com/user-attachments/assets/8b5f5770-e895-416c-b56f-552304b778a0) <br>
+
+    ##Jaringan Komputer
+    
 
 
 
