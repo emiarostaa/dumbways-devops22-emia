@@ -50,7 +50,18 @@ langkah-langkah membuat vvirtual machine :
 9. multipass vurge myname vm untuk memberssihkan Vm yang sudah dihapus
 10. multipass find untuk menjalankan mesin virtual Ubuntu secara cepat dan mudah di atas sistem host mereka <br>
    ![image](https://github.com/user-attachments/assets/1d96135f-f134-4e16-a6db-352d4e603e9f) <br>
-   
+
+11. multipass launch berfungsi untuk membuat instansi VM baru <br>
+   ![image](https://github.com/user-attachments/assets/d83ee977-6110-416f-9d6c-dd1215249b7f) 
+12. multipass ls berfungsi untuk menampikan multipass yang ada
+   ![image](https://github.com/user-attachments/assets/a545f4b9-ee5f-4e27-8e0f-638429d3457a)
+13. multipas shell berfungsi untuk mengarahkan instansi VM yang telah dibuat dengan menuliskan nama multipass yang terdaftar <br>
+   ![image](https://github.com/user-attachments/assets/a339e61b-b51a-4073-8c5d-072a21cca887)
+14. sudo adalah super user utama di linux server
+15. sudo apt update berfungsi memperbarui daftar paket <br>
+    ![image](https://github.com/user-attachments/assets/740e8179-0ed5-4966-8d34-d877ec5fb086)   
+16. sudo apt update berfungsi untuk memperbarui paket ke versi terbaru <br>
+    ![image](https://github.com/user-attachments/assets/c7a9ef12-084c-4379-9d29-8760488d7484)
 
 
 
