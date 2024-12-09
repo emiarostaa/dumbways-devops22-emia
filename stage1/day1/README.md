@@ -5,11 +5,10 @@ DevOps adalah perantara dari programer dan Sistem operasi dari sebuah aplikasi y
 1. plan :ikut bagian dalam merancangkan sebuah aplikasi
 2. code : memahami code atau dapat membaca maksud dari code 
 3. build : membangun sebuah aplikasi
-4. release : 
-5. deploy
-6. operate
-7. monitor
-8. release
+4. deploy : 
+5. operate
+6. monitor
+7. release
 yang dimana DevOps akan mengikuti dari Plan hingga test dengan Development team dan mengikuti Release hingga monitor yang dalam pembuatan sistem operasi yang bekerja secara otomatis untuk perbaharuan sistem dan lainnya. Dapat juga dikatakan Development team adalah CI dan Operation team adalah CD <br>
 ![image](https://github.com/user-attachments/assets/12278286-afb8-4e36-9870-d6392fa422cb) <br>
 
