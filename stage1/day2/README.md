@@ -2,7 +2,7 @@
 
 # Linux Command
 1. sudo snap install multipass berfungsi untuk menginstal multipass menggunanakan snap 
-2. multipass launch berfungsi untuk membuat instansi VM baru <br>
+2. multipass launch berfungsi untuk membuat instansi VM baru <br> 
    ![image](https://github.com/user-attachments/assets/d83ee977-6110-416f-9d6c-dd1215249b7f) 
 3. multipass ls berfungsi untuk menampikan multipass yang ada
    ![image](https://github.com/user-attachments/assets/a545f4b9-ee5f-4e27-8e0f-638429d3457a)
