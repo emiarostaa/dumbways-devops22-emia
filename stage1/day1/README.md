@@ -50,7 +50,6 @@ langkah-langkah membuat vvirtual machine :
 9. multipass vurge myname vm untuk memberssihkan Vm yang sudah dihapus
 10. multipass find untuk menjalankan mesin virtual Ubuntu secara cepat dan mudah di atas sistem host mereka <br>
    ![image](https://github.com/user-attachments/assets/1d96135f-f134-4e16-a6db-352d4e603e9f) <br>
-
 11. multipass launch berfungsi untuk membuat instansi VM baru <br>
    ![image](https://github.com/user-attachments/assets/d83ee977-6110-416f-9d6c-dd1215249b7f) 
 12. multipass ls berfungsi untuk menampikan multipass yang ada
@@ -62,7 +61,16 @@ langkah-langkah membuat vvirtual machine :
     ![image](https://github.com/user-attachments/assets/740e8179-0ed5-4966-8d34-d877ec5fb086)   
 16. sudo apt update berfungsi untuk memperbarui paket ke versi terbaru <br>
     ![image](https://github.com/user-attachments/assets/c7a9ef12-084c-4379-9d29-8760488d7484)
+17. sudo ufw status untuk memeriksa firewall status <br>
+    ![image](https://github.com/user-attachments/assets/ec37e137-baa7-4323-9ac1-5d6f3fd808ca) <br>
+18. instal nginx <br>
+    ![image](https://github.com/user-attachments/assets/838232af-c2a8-4f80-a968-dfe69f6eb96e) <br>
+19.  sudo systemctl nginx untuk mengecek status dari nginx sedang berjalan atau tidak <br>
+![image](https://github.com/user-attachments/assets/c6ef3eb2-4cf5-41da-b194-00a3f9ecb5d7)
 
+
+
+    
 
 
 
