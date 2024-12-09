@@ -18,8 +18,9 @@ DevOps dibutuhkan karena bisa membuat otomatis sebuah pekerjaan Seluruh proses d
 •	Mempersingkat waktu perbaikan
 Ngoding lebih ke script 
 
+# Virtual Machine
 Operating System
-Virtual adalha teknologi yang dapat membagi resource besar menjadi lebih kecil. 
+Virtual adalah teknologi yang dapat membagi resource besar menjadi lebih kecil. 
 Kita bisa mempecah jadi kecil2 suatu resourc
 Hypervisor adlh suatu program utk membuat dan menjalankan virtual macine
 Virtual machine adalah sistem operasi command yang berjalan di ubuntu 
@@ -36,6 +37,21 @@ Release
 DHCP Dinamik Digunakan Para Kantoran Dan Rumahan 
 
 Static Lebih Cocok Utk Membuat Server Karena Di Dlm Server Melakukan Konfigurasi Yg Diarahkan Ke Server tersebut
+
+langkah-langkah membuat vvirtual machine : 
+1. sudo snap install multipass berfungsi untuk menginstal multipass
+2. multipass version berfungsi untuk melihat versi dari multipass
+3. multipass launch --name berfungsi untuk membuat multipass yang baru
+4. multipass list berfungsi untuk melihat multipass yang telah ada pada vm
+5. multipass shell myname vm berfungsi untuk masuk ke multipass
+6. multipass start berfungsi untuk ketika multipass berhenti dapat dijalankan kembali dengan multipass start
+7. multipass stop myname vm untuk menghentikan multipass
+8. multipass delete myname vm untuk menghapus multipass yang sudah ada
+9. multipass vurge myname vm untuk memberssihkan Vm yang sudah dihapus
+10. multipass find untuk menjalankan mesin virtual Ubuntu secara cepat dan mudah di atas sistem host mereka <br>
+   ![image](https://github.com/user-attachments/assets/1d96135f-f134-4e16-a6db-352d4e603e9f) <br>
+   
+
 
 
 
