@@ -2,13 +2,13 @@
 
 Deffinisi DevOpas 
 DevOps adalah perantara dari programer dan Sistem operasi dari sebuah aplikasi yang berguna untuk mempercepat atau melancarkan suatu peroses dalam aplikasi dimana DevOps memiliki beberapa bagian :
-1. plan :ikut bagian dalam merancangkan sebuah aplikasi
-2. code : memahami code atau dapat membaca maksud dari code 
+1. Plan : mengikuti planning yang dirancang oleh tim dev
+2. Develop : tugas 
 3. build : membangun sebuah aplikasi
-4. deploy : 
-5. operate
-6. monitor
-7. release
+4. test : menguji sebuah aplikasi
+5. release : alat yang siap uji dirilis ke publik
+6. Deploy : aplikasi diimplementasikan di lingkungan produksi
+7. monitor : untuk memantau masalah atau mendeteksi masalah yang perlu ditingkatkan
 yang dimana DevOps akan mengikuti dari Plan hingga test dengan Development team dan mengikuti Release hingga monitor yang dalam pembuatan sistem operasi yang bekerja secara otomatis untuk perbaharuan sistem dan lainnya. Dapat juga dikatakan Development team adalah CI dan Operation team adalah CD <br>
 ![image](https://github.com/user-attachments/assets/12278286-afb8-4e36-9870-d6392fa422cb) <br>
 
