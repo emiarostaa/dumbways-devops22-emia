@@ -35,7 +35,10 @@ SESUDAH DI GIT ADD . file 4 sudah terdeteksi perubahan <br>
 - git push : berfungsi untuk mengupload yang telah dikerjakan pada VM ke git dengan memanggil master dan nama branch <br>
   ![image](https://github.com/user-attachments/assets/b25ea2a3-4d64-47ab-8fec-0a5558ca84fe) <br>
 - git pull : berfungsi untuk mengambil (fetch) dan menggabungkan (merge) perubahan terbaru dari repositori remote ke dalam repositori lokal <br>
-![image](https://github.com/user-attachments/assets/ffb082c7-6b58-4b2b-b110-8121f6a66006)
+![image](https://github.com/user-attachments/assets/ffb082c7-6b58-4b2b-b110-8121f6a66006) <br>
+
+4. Study Case <br>
+
 
 
   
