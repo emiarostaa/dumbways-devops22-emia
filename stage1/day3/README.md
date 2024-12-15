@@ -38,6 +38,20 @@ SESUDAH DI GIT ADD . file 4 sudah terdeteksi perubahan <br>
 ![image](https://github.com/user-attachments/assets/ffb082c7-6b58-4b2b-b110-8121f6a66006) <br>
 
 4. Study Case <br>
+GIT INIT <br>
+![image](https://github.com/user-attachments/assets/d49c2949-b75d-4bac-aed3-68419e8be8b9) <br>
+MENGUBAH URL PROJECT DARI HTTP KE GIT <br>
+![image](https://github.com/user-attachments/assets/647ab339-61b3-450c-b3d5-017280ef4ffa) <br>
+MENAMBAHKAN FILE BERNAMA INDEX.HTML <br>
+![image](https://github.com/user-attachments/assets/8a3a97c2-43ba-4af3-9f5a-a470c6cbcf07) <br>
+![image](https://github.com/user-attachments/assets/431b3778-e772-4588-8c2b-2d33d1c4aa78) <br>
+![image](https://github.com/user-attachments/assets/0b949f24-9316-4885-ae2a-aaa1d1ee60c7) <br>
+![image](https://github.com/user-attachments/assets/3d0b194a-8e21-4205-a00c-6985b3bfb928) <br>
+
+
+
+
+
 
 
 
