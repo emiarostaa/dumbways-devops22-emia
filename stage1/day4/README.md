@@ -44,7 +44,8 @@ grep "nama file yg dicari" * : berfungis untuk mencari semua nama file dicari di
 tail berfungsi untuk menampilkan bagian akhir (baris terakhir) dari sebuah file teks atau aliran data <rb>
 ![image](https://github.com/user-attachments/assets/91949b4a-654f-440e-94c5-4d2de4ebe8e8) <br>
 
-
+3. soal case <br>
+![image](https://github.com/user-attachments/assets/a68ab982-50cb-4282-a085-4ce491780247)
 
 nano <br>
 ![image](https://github.com/user-attachments/assets/5e23d47e-7750-49ea-b333-17ca449ade2a) <br>
