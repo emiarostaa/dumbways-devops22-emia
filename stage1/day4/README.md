@@ -52,6 +52,11 @@ nano <br>
 
 
 
+4. membuat bash script
+   no.1 menginstal Webserver Nginx
+   no.2 menginstal Webserver Apache2
+   ![image](https://github.com/user-attachments/assets/f7d2ac4a-92a4-42e5-a457-96916eca2b7f) <br>
+5. 
 
 
 
@@ -65,6 +70,6 @@ nano <br>
 
 
 exit nano mengganti nama file <br>
-y
+
 3. copy paste nano set terlebih dahulu dengan menekan ctrl + 6 kemudian gunakan panah untuk memilih yang ingin di copy lalu Alt+6 kemudian letakkan pada posisi tempat kursor Ctrl + U <br>
    ![image](https://github.com/user-attachments/assets/5dab48a9-29ff-45ce-a179-8dfb91b6f302) <br>
