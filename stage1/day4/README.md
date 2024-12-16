@@ -37,6 +37,21 @@ cat > berfungsi untuk memasukkan isian file sekaligus untuk membuat file : cat >
 ![image](https://github.com/user-attachments/assets/8550a267-108e-48ed-aead-1c85c425d05e) <br>
 grep yang dicari "nama file" : berfungsi untuk mencari teks atau pola dalam sebuah file <br>
 ![image](https://github.com/user-attachments/assets/6238794c-b508-4236-b70f-c3b58e294505) <br>
+ grep -c "nama file yang ingin dicari" : berfungsi untuk menghitung jumlah kata yang ada dalam file <br>
+ ![image](https://github.com/user-attachments/assets/eebb7ac8-701f-40f0-b45b-6cdab497f476) <br>
+grep "nama file yg dicari" * : berfungis untuk mencari semua nama file dicari di satu file <br>
+![image](https://github.com/user-attachments/assets/7f530297-7213-494e-bb00-48bf9a170cd0) <br>
+tail berfungsi untuk menampilkan bagian akhir (baris terakhir) dari sebuah file teks atau aliran data <rb>
+![image](https://github.com/user-attachments/assets/91949b4a-654f-440e-94c5-4d2de4ebe8e8) <br>
+
+
+
+nano <br>
+![image](https://github.com/user-attachments/assets/5e23d47e-7750-49ea-b333-17ca449ade2a) <br>
+
+
+
+
 
 
  
