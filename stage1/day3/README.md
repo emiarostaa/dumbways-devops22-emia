@@ -6,7 +6,7 @@
 3. Command Git pada Virtual Machine <br>
 3.1 Konfigurasi awal : menghubungkan git dengan virtual machine <br>
    - git init : untuk menginisialisasi repositori Git baru di direktori kerja. <br>
-   ![image](https://github.com/user-attachments/assets/770b9701-7193-477b-a416-236bfff00d71) <br>
+   ![image](https://github.com/user-attachments/assets/770b9701-7193-477b-a416-236bfff00d71) <br> 
    - git add nama file : berfungsi untuk menyimpan perubahan yang dilakukan pada file terentu saja <br>
      ![image](https://github.com/user-attachments/assets/35ee9100-2736-4bf1-9382-0010e47d71b5) <br>
      git add . : berfungsi untuk menyimpan seluruh perubahan yang dilakukan pada VM <br>
