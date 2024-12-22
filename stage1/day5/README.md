@@ -30,7 +30,7 @@
   2.3.1 instal golang <br> ![image](https://github.com/user-attachments/assets/48e38bee-b3ec-47b2-a546-9269907135b5) <br>
   2.3.2 ![image](https://github.com/user-attachments/assets/84d9f20d-70fc-4142-ba2b-234eabb77501) <br>
   2.2.3 ![image](https://github.com/user-attachments/assets/91dcb4ff-9091-48c5-8a0d-f336d92406a8) <br>
-  2.2.4  
+  2.2.4   
 
 
 
