@@ -19,7 +19,28 @@
  2.2  PHYTON <br>
  2.2.1 ![image](https://github.com/user-attachments/assets/e21a36a3-2933-4da8-8757-90a79982a309) <br>
  2.2.2 versi ![image](https://github.com/user-attachments/assets/cabd85eb-edc1-4c62-a38b-bdb300640e6a) <br>
- 2.2.3 
+ 2.2.3 install pip ![image](https://github.com/user-attachments/assets/2bd0ea33-d37e-4f5c-9b87-a5c1c61362ea) <br>
+ 2.2.4 sudo apt update dan upgrade <br> ![image](https://github.com/user-attachments/assets/dd23d60f-daf9-4371-996a-814f4e322d99) <br>
+ 2.2.5 versi <br> ![image](https://github.com/user-attachments/assets/3cb312a0-b368-4f1a-ba15-09c2de93f5b6) <br>
+ 2.2.6 ![image](https://github.com/user-attachments/assets/4f26b73b-2d6d-4d74-99a1-a6179eb6c55d) <br>
+ 2.2.7 instal flask <br> ![image](https://github.com/user-attachments/assets/4ffea614-a88c-4359-b325-cbf021840ab9) <br>
+ 2.2.8 ![image](https://github.com/user-attachments/assets/be343652-0db6-405a-bd45-948561d483fb) <br>
+ 2.2.9 ![image](https://github.com/user-attachments/assets/b3dcc6e3-13b8-4529-9e62-669f94d62297) <br>
+  2.3 GOLANG
+  2.3.1 instal golang <br> ![image](https://github.com/user-attachments/assets/48e38bee-b3ec-47b2-a546-9269907135b5) <br>
+  2.3.2 ![image](https://github.com/user-attachments/assets/84d9f20d-70fc-4142-ba2b-234eabb77501) <br>
+  2.2.3 ![image](https://github.com/user-attachments/assets/91dcb4ff-9091-48c5-8a0d-f336d92406a8) <br>
+  2.2.4  
+
+
+
+
+
+
+
+
+
+
 
 
 
