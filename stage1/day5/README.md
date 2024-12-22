@@ -14,10 +14,12 @@
 2.8 npm init -y : <br> ![image](https://github.com/user-attachments/assets/8da96979-10f2-4d21-994c-e12f441bd0fe) <br>
 2.9 package.json : <br> ![image](https://github.com/user-attachments/assets/36b8fcfd-40ca-4788-a22a-944489626e02) <br>
 2.10 nano : <br> ![image](https://github.com/user-attachments/assets/2d828c65-02f9-4c36-aa42-4d39456ccbea) <br> ![image](https://github.com/user-attachments/assets/690b7c95-cd4b-4f4d-ad47-86dd7fa13170) <br>
-2.11 runing **node** : <br> ![image](https://github.com/user-attachments/assets/9d2e695c-7250-48ae-be64-ac45c1c9c92f) <br>
+2.11 run **node** : <br> ![image](https://github.com/user-attachments/assets/9d2e695c-7250-48ae-be64-ac45c1c9c92f) <br>
 2.12 
 
 
+3. DUMBFLIX <br>
+   Hasil <br> ![image](https://github.com/user-attachments/assets/82e5b289-3676-450d-bd59-a8d226567b2c)
 
 
 
