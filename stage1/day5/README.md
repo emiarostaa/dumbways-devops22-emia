@@ -30,20 +30,8 @@
   2.3.1 instal golang <br> ![image](https://github.com/user-attachments/assets/48e38bee-b3ec-47b2-a546-9269907135b5) <br>
   2.3.2 ![image](https://github.com/user-attachments/assets/84d9f20d-70fc-4142-ba2b-234eabb77501) <br>
   2.2.3 ![image](https://github.com/user-attachments/assets/91dcb4ff-9091-48c5-8a0d-f336d92406a8) <br>
-  2.2.4   
-
-
-
-
-
-
-
-
-
-
-
-
-
+  2.2.4  instal golang <br> ![image](https://github.com/user-attachments/assets/471a9c22-da07-454f-8501-ba858e181368)  <br>
+  
 
 3. DUMBFLIX <br>
 ![image](https://github.com/user-attachments/assets/13896ce0-99b7-404a-973e-f65ba7958246) <br>
