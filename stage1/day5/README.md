@@ -46,7 +46,10 @@ hasil <br> ![image](https://github.com/user-attachments/assets/2308c9fd-5c64-465
 
    setelah di run : <br> ![image](https://github.com/user-attachments/assets/9ec91032-317b-4c57-863f-98c7bedec4b4) <br>
 
-   Hasil <br> ![image](https://github.com/user-attachments/assets/c23fbc39-a5fb-47ad-818e-2e0043f09fea)
+   Hasil <br> ![image](https://github.com/user-attachments/assets/c23fbc39-a5fb-47ad-818e-2e0043f09fea) <br>
+   ![image](https://github.com/user-attachments/assets/f0de9bab-c8ef-47c6-be1b-625aa6961a84) <br>
+   
+
 
 
 
