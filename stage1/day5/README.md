@@ -15,6 +15,7 @@
 2.1.8 npm init -y : <br> ![image](https://github.com/user-attachments/assets/8da96979-10f2-4d21-994c-e12f441bd0fe) <br>
 2.1.9 package.json : <br> ![image](https://github.com/user-attachments/assets/36b8fcfd-40ca-4788-a22a-944489626e02) <br>
 2.1.10 nano : <br> ![image](https://github.com/user-attachments/assets/2d828c65-02f9-4c36-aa42-4d39456ccbea) <br> ![image](https://github.com/user-attachments/assets/690b7c95-cd4b-4f4d-ad47-86dd7fa13170) <br>
+hasil <br> ![image](https://github.com/user-attachments/assets/2308c9fd-5c64-4658-85de-ded16a467e92) <br>
 2.1.11 run **node** : <br> ![image](https://github.com/user-attachments/assets/9d2e695c-7250-48ae-be64-ac45c1c9c92f) <br>
  2.2  PHYTON <br>
  2.2.1 ![image](https://github.com/user-attachments/assets/e21a36a3-2933-4da8-8757-90a79982a309) <br>
@@ -51,7 +52,7 @@
 
 
 
-hasil <br> ![image](https://github.com/user-attachments/assets/2308c9fd-5c64-4658-85de-ded16a467e92) <br>
+
 
 
 
