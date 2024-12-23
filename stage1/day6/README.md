@@ -6,7 +6,9 @@ alur cara kerja web server <br>
    ![image](https://github.com/user-attachments/assets/bfb9b319-5117-4429-bfaf-d37eef9e974e) <br>
    ![image](https://github.com/user-attachments/assets/2ea79600-3704-45a7-9ec4-fafeafeb2245) <br>
    ![image](https://github.com/user-attachments/assets/5e3bf693-be6d-425f-b98e-590b05c4ab49) <br>
-   
+
+3. Load Balance adalah cara untuk membagi pekerjaan secara merata ke beberapa komputer atau server, supaya semuanya bekerja lebih ringan dan cepat. Ini juga membantu menjaga layanan tetap berjalan jika ada server yang bermasalah
+
 
 
  
