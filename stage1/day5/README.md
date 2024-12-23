@@ -4,7 +4,7 @@
 - Microservices adalah sesuai namanya micro / kecil yang memiliki sifat aplikasi yang dapat di bagi menjadi bagian bagian kecil dan memiliki fungsi masing-masing untuk menjalankan banyak unsur pada satu aplikasi, atau dapat dikatakan aplikasi monolith yang di dalamnya di pecah menjadi bagian-bagian kecil dengan fungsinya. <br>
 2. NODE.JS, PHYTON, GOLANG <br>
 2.1 NODE.JS
-  2.1.1sudo apt apdate; sudo apt upgrade <br>
+  2.1.1 `sudo apt apdate; sudo apt upgrade` <br>
 ![image](https://github.com/user-attachments/assets/2cff136d-0a6b-445c-bfbb-195b5d90dc2a) <br>
 2.1.2 Download NVM : <br> https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script kemudian copy bash : curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash <br> untuk menginstal dan mengupgrade Node Version manager (NVM) agar bisa digunakan <br>
 2.1.3 Versi NVM <br> ![image](https://github.com/user-attachments/assets/078c03d4-5925-4737-b7a5-47e2e62766db) <br>
